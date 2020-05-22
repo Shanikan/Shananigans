@@ -18,4 +18,7 @@ except:
 result = random.randint(1,usrinput)
 
 #result = dice(usrinput)
+print("")
+print("The Result of your d"+str(usrinput)+" roll is: ")
+print("")
 print(result)
